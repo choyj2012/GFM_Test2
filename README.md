@@ -37,8 +37,8 @@
 > `status` 명령어를 통해 파일들이 어떤 상태에 있는지 확인할 수 있다.
 
 1. README.md 파일 생성
-2. `git status`로 확인
-![](img/gitstatus1.jpg)
+2. `git status`로 확인  
+![](img/gitstatus1.jpg)  
 아직 untrack 상태인 것을 알 수 있다.
 3. `git add README.md`로 인덱스에 기록
 4. `git commit -m "Add README"`로 저장소에 커밋  
