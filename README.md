@@ -16,7 +16,7 @@
     `--global` : 설정한 값이 모든 곳에 적용된다.  
     `--local` : 현재 작업중인 프로젝트에만 적용
 
-3. `git config --list`로 설정된 정보를 확인할 수 있다.
+3. `git config --list`로 설정된 정보를 확인할 수 있다.  
 ![](img/gitconfig.jpg)
 ## 2. 로컬 저장소로 사용할 폴더 초기화 (init)
 
